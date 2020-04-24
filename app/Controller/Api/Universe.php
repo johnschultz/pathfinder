@@ -38,6 +38,7 @@ class Universe extends Controller\AccessController {
     }
 
     /**
+<<<<<<< HEAD
      * search systems by name
      * @param \Base $f3
      * @param $params
@@ -98,6 +99,8 @@ class Universe extends Controller\AccessController {
     }
 
     /**
+=======
+>>>>>>> 7cc66f15... - New map option for inline system region names, closed #947
      * get system data for all systems within a constellation
      * @param \Base $f3
      * @param array $params
